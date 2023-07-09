@@ -1,0 +1,7 @@
+scipy
+numpy
+pretty_midi
+seaborn
+python-midi
+scikit-learn
+pickle
